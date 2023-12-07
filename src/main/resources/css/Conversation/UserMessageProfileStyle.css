@@ -1,0 +1,6 @@
+
+
+.avatar {
+    -fx-fill: linear-gradient(to right top, #eac4c1, #74bf3d);
+    -fx-stroke: #8c8c8c;
+}

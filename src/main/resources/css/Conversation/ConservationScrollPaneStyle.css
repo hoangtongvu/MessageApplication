@@ -1,0 +1,6 @@
+.chat-box {
+}
+
+.chat-box > .viewport {
+    -fx-background-color: linear-gradient(to right top, #c49f93, #92b7c3);
+}

@@ -1,0 +1,25 @@
+
+
+.combo-box {
+    -fx-background-color: #282c34;
+    -fx-background-radius: 30;
+}
+
+.combo-box>.list-cell {
+    -fx-alignment: center;
+    -fx-font-size: 15;
+    -fx-background-color: #282c34;
+    -fx-text-fill: white;
+}
+
+.combo-box .list-view {
+    -fx-background-radius: 25;
+    -fx-padding: 10;
+}
+
+.combo-box .list-cell, .list-cell:focused {
+
+    -fx-alignment: center;
+    -fx-border-radius: 30;
+    -fx-background-radius: 30;
+}
